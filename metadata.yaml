@@ -1,0 +1,32 @@
+_repo: The-Fallen-Leaves_7894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Victorian-era novelist Wilkie Collins was one of the most popular and
+  successful writers of his day, ranked by some as equal in influence and acclaim
+  to his friend and mentor Charles Dickens. Like Dickens, Collins' novels take a hard
+  look at the social problems of the period in the context of an engaging, often addictively
+  paced, narrative. Fallen Leaves recounts the lives of four women, each of whom has
+  chosen a distinct path but whose fortunes are inextricably linked.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Fallen Leaves
+url: http://www.gutenberg.org/ebooks/7894
