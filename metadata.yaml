@@ -1,5 +1,8 @@
 _repo: The-Fallen-Leaves_7894
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -15,6 +18,8 @@ description: Victorian-era novelist Wilkie Collins was one of the most popular a
   look at the social problems of the period in the context of an engaging, often addictively
   paced, narrative. Fallen Leaves recounts the lives of four women, each of whom has
   chosen a distinct path but whose fortunes are inextricably linked.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7894#The-Fallen-Leaves
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
